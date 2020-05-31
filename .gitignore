@@ -1,6 +1,7 @@
 *.pdf
 *.pkt
 *.pka
+*.bak 
 
 PT.conf
 logs/
